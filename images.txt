@@ -1,1 +1,1 @@
-thestr4ng3r/chiaki-build-switch:v2
+thestr4ng3r/chiaki-build-switch
